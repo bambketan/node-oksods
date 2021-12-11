@@ -1,0 +1,6 @@
+{
+  "name": "web-srver",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
