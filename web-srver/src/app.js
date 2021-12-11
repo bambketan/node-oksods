@@ -1,7 +1,7 @@
 const express = require('express');
 const app = express();
-//const path = require('path');
-console.log('OKK');
+const path = require('path');
+console.log('OKK', path);
 console.log('dds');
 app.get('', (req, res) => {
   res.send('<h1>Used data</h1>');
